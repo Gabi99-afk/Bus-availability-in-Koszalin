@@ -68,8 +68,6 @@ The project performs the following steps:
 
 ## Author
 
-\[Your Name/Organization]
+\Gabriel Wasilewski
 
-## License
 
-\[License Information]
